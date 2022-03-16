@@ -184,6 +184,42 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+                                
+            <script type="application/ld+json">
+                {
+                "@context": "http://schema.org",
+                "@type": "Organization",
+                "name": "과천한양수자인 입주예정자 협의회",
+                "url": "https://gwacheonsujain.github.io",
+                "sameAs": [
+                        "https://cafe.naver.com/gwacheonsujain"
+                    ]
+                }
+            </script>
+            
+            <script type="module">
+              // Import the functions you need from the SDKs you need
+              import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.8/firebase-app.js";
+              import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.8/firebase-analytics.js";
+              // TODO: Add SDKs for Firebase products that you want to use
+              // https://firebase.google.com/docs/web/setup#available-libraries
+
+              // Your web app's Firebase configuration
+              // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+              const firebaseConfig = {
+                apiKey: "AIzaSyAfBejRsTHDrEo0BwzYTEmrEvY4i8qdsjw",
+                authDomain: "gwacheonsujain-github-io.firebaseapp.com",
+                projectId: "gwacheonsujain-github-io",
+                storageBucket: "gwacheonsujain-github-io.appspot.com",
+                messagingSenderId: "1016922703387",
+                appId: "1:1016922703387:web:94a7eb124eb445c5de9abe",
+                measurementId: "G-NS9PVTBCK4"
+              };
+
+              // Initialize Firebase
+              const app = initializeApp(firebaseConfig);
+              const analytics = getAnalytics(app);
+            </script>
 
 	</body>
 </html>
