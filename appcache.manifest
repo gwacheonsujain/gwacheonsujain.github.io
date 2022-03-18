@@ -1,0 +1,44 @@
+CACHE MANIFEST
+# version 2020-03-18
+
+CACHE:
+# css
+https://gwacheonsujain.github.io/images/bg.webp
+https://gwacheonsujain.github.io/images/cafe.webp
+https://gwacheonsujain.github.io/images/overlay.png
+https://gwacheonsujain.github.io/images/sv.png
+
+https://gwacheonsujain.github.io/images/onsite_photos/202112/1.jpeg
+https://gwacheonsujain.github.io/images/onsite_photos/202112/2.jpeg
+https://gwacheonsujain.github.io/images/onsite_photos/202112/3.jpeg
+https://gwacheonsujain.github.io/images/onsite_photos/202112/4.jpeg
+https://gwacheonsujain.github.io/images/onsite_photos/202201/1.jpeg
+https://gwacheonsujain.github.io/images/onsite_photos/202201/2.jpeg
+https://gwacheonsujain.github.io/images/onsite_photos/202201/3.jpeg
+https://gwacheonsujain.github.io/images/onsite_photos/202201/4.jpeg
+https://gwacheonsujain.github.io/images/onsite_photos/202202/1.jpeg
+https://gwacheonsujain.github.io/images/onsite_photos/202202/2.jpeg
+https://gwacheonsujain.github.io/images/onsite_photos/202202/3.jpeg
+https://gwacheonsujain.github.io/images/onsite_photos/202202/4.jpeg
+https://gwacheonsujain.github.io/images/onsite_photos/202202/5.jpeg
+https://gwacheonsujain.github.io/images/onsite_photos/202202/6.jpeg
+
+https://gwacheonsujain.github.io/assets/css/fontawesome-all.min.css
+https://gwacheonsujain.github.io/assets/css/main.css
+
+https://gwacheonsujain.github.io/assets/js/breakpoints.min.js
+https://gwacheonsujain.github.io/assets/js/browser.min.js
+https://gwacheonsujain.github.io/assets/js/jquery.min.js
+https://gwacheonsujain.github.io/assets/js/jquery.scrollex.min.js
+https://gwacheonsujain.github.io/assets/js/jquery.scrolly.min.js
+https://gwacheonsujain.github.io/assets/js/main.js
+https://gwacheonsujain.github.io/assets/js/util.js
+
+https://gwacheonsujain.github.io/assets/webfonts/fa-brands-400.woff2
+https://gwacheonsujain.github.io/assets/webfonts/fa-solid-900.woff2
+
+NETWORK:
+*
+
+FALLBACK:
+https://gwacheonsujain.github.io/404.html
