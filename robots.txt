@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+Sitemap: https://gwacheonsujain.github.io/sitemap.xml
